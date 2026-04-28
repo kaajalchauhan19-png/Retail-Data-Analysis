@@ -95,7 +95,7 @@ These filters dynamically update all visuals, enabling deeper analysis.
 
 ## 📸 Dashboard Preview
 
-Retail-Data-Analysis[image/Retail.png]
+[Retail-Data-Analysis](image/Retail.png)
 
 ## 🚀 How to Use
 
